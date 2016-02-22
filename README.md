@@ -11,4 +11,4 @@ Configuración de las herramientas y tecnologías a utilizar en la asignatura Si
 
 [Página personal de prácticas](http://alu0100783612.github.io/)
 
-[Página de la práctica inicial](http://alu0100783612.github.io/practica1.html/)
+[Página de la práctica inicial](https://alu0100783612.github.io/practica1.html)
